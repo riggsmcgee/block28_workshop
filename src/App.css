@@ -1,0 +1,78 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  gap: 25px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #3b4046;
+}
+
+main {
+  margin-top: 60px; /* Adjust this value based on the height of your nav */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 80vw;
+}
+
+.container {
+  justify-content: center;
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#random1 {
+  background-color: pink;
+}
+
+#random2 {
+  background-color: yellow;
+}
+
+#random3 {
+  background-color: green;
+}
+
+#random4 {
+  background-color: purple;
+}
+
+#random5 {
+  background-color: orange;
+}
+
+#random6 {
+  background-color: cyan;
+}
+
+#random7 {
+  background-color: brown;
+}
+
+#random8 {
+  background-color: gray;
+}
+
+#random9 {
+  background-color: magenta;
+}
+
+#random10 {
+  background-color: teal;
+}
